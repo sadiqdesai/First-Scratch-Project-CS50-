@@ -2,4 +2,4 @@ This is my first project of Harvard CS50 cource in this project i made a game in
 PROBLEM I AM FACING:once we shoot a rock all the other rocks respawn and they will keep respawning so they never falls i cant figure out how to solve this problem and also make it more efficient
 FAVOUR:it will be a fovour to let me know how can i solve this problem
 
-THANK YOY
+THANK YOU
